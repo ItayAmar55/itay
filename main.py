@@ -1,8 +1,8 @@
 #1
-print(" Hello Enter your  name: itay ")
+print(" Hello Enter your  name: Daniel ")
 
 #2
-print(" Hello Enter your adress: Ashkelon ")
+print(" Hello Enter your adress: Dalia ")
 
 
 
