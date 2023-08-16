@@ -8,5 +8,5 @@ print(" Hello Enter your adress: Dalia ")
 
 """
 name = "Itay" 
-print(" Hello " , name ," How are you: " )
+print(" Hello " , name ," How are you: good " )
 """
